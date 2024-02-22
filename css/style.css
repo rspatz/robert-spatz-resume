@@ -16,6 +16,21 @@ body {
   line-height: 1.5rem;
 }
 
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: darkgray;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: black;
+}
+
+li {
+  list-style-type: none;
+}
+
 hr {
   width: 75%;
   margin: 1rem 0;
