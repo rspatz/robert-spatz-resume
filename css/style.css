@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header,
+.performance,
+.skills,
+.experience,
+.education {
+  margin: 3rem;
+  line-height: 1.7rem;
+}
+
+hr {
+  width: 75%;
+  margin: 1rem 0;
+}
+
+p,
+li {
+  width: 75%;
+}
+
+h3,
+h4 {
+  margin: 1rem 0;
+}
